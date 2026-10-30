@@ -1,0 +1,131 @@
+{
+  "existing_files_unchanged_before_validation": true,
+  "existing_files_count": 59,
+  "pytest": {
+    "arguments": [
+      "S:\\Repos\\stack-graph\\.venv\\Scripts\\python.exe",
+      "-m",
+      "pytest",
+      "-q",
+      "--junitxml=S:\\Repos\\stack-graph\\artifacts\\presentation\\first_meeting\\validation\\pytest.xml"
+    ],
+    "cwd": "S:\\Repos\\stack-graph",
+    "exit_code": 0,
+    "stdout": "................................                                         [100%]\n32 passed in 1.51s\n",
+    "stderr": ""
+  },
+  "test_counts": {
+    "tests": 32,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0
+  },
+  "offline_runs": [
+    {
+      "arguments": [
+        "S:\\Repos\\stack-graph\\.venv\\Scripts\\python.exe",
+        "-m",
+        "stackgraph",
+        "--offline",
+        "--sample",
+        "S:\\Repos\\stack-graph\\data\\sample.json",
+        "--cache",
+        "S:\\Repos\\stack-graph\\data\\cache"
+      ],
+      "cwd": "S:\\Repos\\stack-graph\\artifacts\\presentation\\first_meeting\\validation\\run_1",
+      "exit_code": 0,
+      "stdout": "{\n  \"started_at\": \"2026-10-28T06:40:15.646799+00:00\",\n  \"completed_at\": \"2026-10-28T06:40:16.079281+00:00\",\n  \"arguments\": [\n    \"--offline\",\n    \"--sample\",\n    \"S:\\\\Repos\\\\stack-graph\\\\data\\\\sample.json\",\n    \"--cache\",\n    \"S:\\\\Repos\\\\stack-graph\\\\data\\\\cache\"\n  ],\n  \"python\": \"3.13.9\",\n  \"packages\": {\n    \"networkx\": \"3.7\",\n    \"requests\": \"2.32.5\",\n    \"matplotlib\": \"3.11.1\"\n  },\n  \"offline\": true,\n  \"refresh\": false,\n  \"network_requests\": 0,\n  \"cache_hits\": 16,\n  \"source_count\": 16,\n  \"node_count\": 8,\n  \"edge_count\": 4,\n  \"outputs\": [\n    \"artifacts\\\\analysis.json\",\n    \"artifacts\\\\graph.png\",\n    \"results.md\"\n  ]\n}\n",
+      "stderr": "",
+      "execution": {
+        "started_at": "2026-10-28T06:40:15.646799+00:00",
+        "completed_at": "2026-10-28T06:40:16.079281+00:00",
+        "arguments": [
+          "--offline",
+          "--sample",
+          "S:\\Repos\\stack-graph\\data\\sample.json",
+          "--cache",
+          "S:\\Repos\\stack-graph\\data\\cache"
+        ],
+        "python": "3.13.9",
+        "packages": {
+          "networkx": "3.7",
+          "requests": "2.32.5",
+          "matplotlib": "3.11.1"
+        },
+        "offline": true,
+        "refresh": false,
+        "network_requests": 0,
+        "cache_hits": 16,
+        "source_count": 16,
+        "node_count": 8,
+        "edge_count": 4,
+        "outputs": [
+          "artifacts\\analysis.json",
+          "artifacts\\graph.png",
+          "results.md"
+        ]
+      }
+    },
+    {
+      "arguments": [
+        "S:\\Repos\\stack-graph\\.venv\\Scripts\\python.exe",
+        "-m",
+        "stackgraph",
+        "--offline",
+        "--sample",
+        "S:\\Repos\\stack-graph\\data\\sample.json",
+        "--cache",
+        "S:\\Repos\\stack-graph\\data\\cache"
+      ],
+      "cwd": "S:\\Repos\\stack-graph\\artifacts\\presentation\\first_meeting\\validation\\run_2",
+      "exit_code": 0,
+      "stdout": "{\n  \"started_at\": \"2026-10-28T06:40:17.657743+00:00\",\n  \"completed_at\": \"2026-10-28T06:40:18.083801+00:00\",\n  \"arguments\": [\n    \"--offline\",\n    \"--sample\",\n    \"S:\\\\Repos\\\\stack-graph\\\\data\\\\sample.json\",\n    \"--cache\",\n    \"S:\\\\Repos\\\\stack-graph\\\\data\\\\cache\"\n  ],\n  \"python\": \"3.13.9\",\n  \"packages\": {\n    \"networkx\": \"3.7\",\n    \"requests\": \"2.32.5\",\n    \"matplotlib\": \"3.11.1\"\n  },\n  \"offline\": true,\n  \"refresh\": false,\n  \"network_requests\": 0,\n  \"cache_hits\": 16,\n  \"source_count\": 16,\n  \"node_count\": 8,\n  \"edge_count\": 4,\n  \"outputs\": [\n    \"artifacts\\\\analysis.json\",\n    \"artifacts\\\\graph.png\",\n    \"results.md\"\n  ]\n}\n",
+      "stderr": "",
+      "execution": {
+        "started_at": "2026-10-28T06:40:17.657743+00:00",
+        "completed_at": "2026-10-28T06:40:18.083801+00:00",
+        "arguments": [
+          "--offline",
+          "--sample",
+          "S:\\Repos\\stack-graph\\data\\sample.json",
+          "--cache",
+          "S:\\Repos\\stack-graph\\data\\cache"
+        ],
+        "python": "3.13.9",
+        "packages": {
+          "networkx": "3.7",
+          "requests": "2.32.5",
+          "matplotlib": "3.11.1"
+        },
+        "offline": true,
+        "refresh": false,
+        "network_requests": 0,
+        "cache_hits": 16,
+        "source_count": 16,
+        "node_count": 8,
+        "edge_count": 4,
+        "outputs": [
+          "artifacts\\analysis.json",
+          "artifacts\\graph.png",
+          "results.md"
+        ]
+      }
+    }
+  ],
+  "two_run_byte_identical": true,
+  "identical_to_existing_outputs": true,
+  "reproduction_sha256": {
+    "artifacts/analysis.json": "77237e6987be9f65c2fcc1cc072ceda648972600f241eb605b185005603e318c",
+    "artifacts/graph.png": "2900516a40550bc9d73c4324292db3f08a14e6e4508e9c1f4634e0e8691c6e13",
+    "results.md": "ed95fc243486d452bd88e35aea8a5f5bef12fd4e1b41129fb951b82cef5e0869"
+  },
+  "valid_cached_payloads": 16,
+  "verified_edges": 4,
+  "brief_pdf_pages": 1,
+  "changed_existing_files": [],
+  "existing_files_unchanged_after_validation": true,
+  "exact_research_question_in_brief": true,
+  "speech_word_count": 198,
+  "failure_summary": [],
+  "validated_at": "2026-10-28T06:40:18.297414+00:00"
+}

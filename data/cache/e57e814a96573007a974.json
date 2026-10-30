@@ -1,0 +1,75 @@
+{
+  "source_url": "https://api.github.com/repos/cli/cli/stacks?pull_request=14348&per_page=100",
+  "retrieved_at": "2026-10-28T05:01:55.817656+00:00",
+  "http_status": 200,
+  "response_date": "Wed, 28 Oct 2026 05:02:42 GMT",
+  "api_version": "2026-03-10",
+  "etag": "W/\"ae263c769c1725561e7d9f29e4631b60feff6d480cef06c01442f7318b684744\"",
+  "next_page": null,
+  "data_sha256": "e41250780803dce60ec8e4051c336b09ada509027025e8a62091843c5d7afa55",
+  "data": [
+    {
+      "id": 879127,
+      "number": 14352,
+      "node_id": "PRS_kwDODKw3uc4ADWoX",
+      "url": "https://api.github.com/repos/cli/cli/stacks/14352",
+      "base": {
+        "ref": "trunk"
+      },
+      "open": true,
+      "created_at": "2026-09-04T15:39:05Z",
+      "pull_requests": [
+        {
+          "number": 14348,
+          "state": "open",
+          "draft": true,
+          "merged_at": null,
+          "head": {
+            "ref": "williammartin-git-real-repo-test-harness",
+            "sha": "e4995478338ac17dc108c7c30c157437df3b9874"
+          }
+        },
+        {
+          "number": 14349,
+          "state": "open",
+          "draft": true,
+          "merged_at": null,
+          "head": {
+            "ref": "williammartin-git-graph-tests",
+            "sha": "091f872c5516b80296432ba257e7ef19681bfda5"
+          }
+        },
+        {
+          "number": 14350,
+          "state": "open",
+          "draft": true,
+          "merged_at": null,
+          "head": {
+            "ref": "williammartin-git-transport-tests",
+            "sha": "ff5afe556034a6848cb9d408be9e6ae70c4e88db"
+          }
+        },
+        {
+          "number": 14351,
+          "state": "open",
+          "draft": true,
+          "merged_at": null,
+          "head": {
+            "ref": "williammartin-improve-git-tests",
+            "sha": "0c11bdf04bca607bee27ab9ee4cd9eb0c114f2a0"
+          }
+        },
+        {
+          "number": 14355,
+          "state": "open",
+          "draft": true,
+          "merged_at": null,
+          "head": {
+            "ref": "williammartin-clean-git-test-seams",
+            "sha": "7adb2541716f52964d46143be7877d69c6d9f457"
+          }
+        }
+      ]
+    }
+  ]
+}

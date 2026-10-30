@@ -1,0 +1,41 @@
+{
+  "kind": "Documentation context, not new PR observations or evaluation data",
+  "sources": [
+    {
+      "key": "events",
+      "source_url": "https://docs.github.com/en/rest/activity/events",
+      "retrieved_at": "2026-10-28T06:32:42.665662+00:00",
+      "http_status": 200,
+      "response_html_sha256": "31c4614b9abe6111760e50f60a665df5fd003d0074af90462f7e076c17f063e7",
+      "extracted_excerpt": "The timeline will include up to 300 events. Only events created within the past 30 days will be included.",
+      "interpretation_limits": "Documented REST activity timeline limit; not a limit on all GitHub APIs or an empirical measurement in this PR sample."
+    },
+    {
+      "key": "event_types",
+      "source_url": "https://docs.github.com/en/rest/using-the-rest-api/github-event-types",
+      "retrieved_at": "2026-10-28T06:32:44.410808+00:00",
+      "http_status": 200,
+      "response_html_sha256": "559f2f2910c3079ef6b05a3bcad3b92b1935ae6bff76389018488bb547ba41f6",
+      "extracted_excerpt": "Event payload object for PullRequestEvent Key Type Description action string The action that was performed. Can be one of opened , closed , merged , reopened , assigned , unassigned , labeled , or unlabeled . number integer The pull request number. pull_request object The pull request itself. assignee object The optional user who was assigned or unassigned from the issue. assignees array The optional array of assignee objects detailing the assignees on the issue. label object The optional label that was added or removed from the issue if the action was labeled or unlabeled . labels array The optional array of label objects describing the labels on the pull request if the action was labeled or unlabeled . ",
+      "interpretation_limits": "This section references a pull_request object and has no explicit native stack field. That does not establish that nested objects can never contain stack data. No activity-event payloads are in the research cache."
+    },
+    {
+      "key": "rate_limits",
+      "source_url": "https://docs.github.com/en/rest/using-the-rest-api/rate-limits-for-the-rest-api",
+      "retrieved_at": "2026-10-28T06:32:46.202740+00:00",
+      "http_status": 200,
+      "response_html_sha256": "ff72673744f04a46382bf7e4d866a4ef02a46eeedfe6498217095004daae2d17",
+      "extracted_excerpt": "The primary rate limit for unauthenticated requests is 60 requests per hour.",
+      "interpretation_limits": "Official documentation also describes authentication-dependent and secondary limits. Request cost is a budget/latency concern, not a monetary charge measured here."
+    }
+  ],
+  "private_communication": {
+    "provenance": "User reports informal Discord feedback from a maintainer about false negatives.",
+    "exact_quote": null,
+    "maintainer_identity": null,
+    "message_date": null,
+    "transcript_supplied": false,
+    "specific_missed_cases_supplied": false,
+    "use": "Motivation only, not validated errors, a label set, or measured StackGraph/AgentScan performance."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "started_at": "2026-10-28T05:30:53.923581+00:00",
+  "completed_at": "2026-10-28T05:30:54.356869+00:00",
+  "arguments": [
+    "--offline"
+  ],
+  "python": "3.13.9",
+  "packages": {
+    "networkx": "3.7",
+    "requests": "2.32.5",
+    "matplotlib": "3.11.1"
+  },
+  "offline": true,
+  "refresh": false,
+  "network_requests": 0,
+  "cache_hits": 16,
+  "source_count": 16,
+  "node_count": 8,
+  "edge_count": 4,
+  "outputs": [
+    "artifacts\\analysis.json",
+    "artifacts\\graph.png",
+    "results.md"
+  ]
+}

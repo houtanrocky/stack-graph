@@ -1,0 +1,11 @@
+{
+  "source_url": "https://api.github.com/repos/cli/cli/stacks?pull_request=14346&per_page=100",
+  "retrieved_at": "2026-10-28T05:01:51.066046+00:00",
+  "http_status": 200,
+  "response_date": "Wed, 28 Oct 2026 05:02:37 GMT",
+  "api_version": "2026-03-10",
+  "etag": "\"74d1db57f0fec3481bb6b4d9bcdc020d656635ec6c53ee589d27a8831cbbe280\"",
+  "next_page": null,
+  "data_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+  "data": []
+}

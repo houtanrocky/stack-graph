@@ -1,0 +1,7 @@
+{
+  "repository": "cli/cli",
+  "pull_requests": [14345, 14346, 14347, 14348, 14349, 14350, 14351, 14355],
+  "stack_candidates": [14348, 14349, 14350, 14351, 14355],
+  "structural_controls": [14345, 14346, 14347],
+  "selection": "Purposive case study: one open native stack found through the public stacks endpoint; three nearby same-author trunk-targeting PRs. Not a random sample or a labeled benchmark."
+}

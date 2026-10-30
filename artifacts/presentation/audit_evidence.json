@@ -1,0 +1,647 @@
+{
+  "cache_inventory": [
+    {
+      "cache_file": "data/cache/1d048c0a2fc17d472b0c.json",
+      "source_url": "https://api.github.com/repos/cli/cli/stacks?pull_request=14347&per_page=100",
+      "retrieved_at": "2026-10-28T05:01:53.691380+00:00",
+      "response_date": "Wed, 28 Oct 2026 05:02:40 GMT",
+      "server_date_minus_client_seconds": 46.30862,
+      "http_status": 200,
+      "payload_checksum_valid": true,
+      "data_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "file_sha256": "01cfae9d7eaea8bdd5211d6dbba7905cf5eaeb4ed012cd1a2ca34adfaae2a9ae"
+    },
+    {
+      "cache_file": "data/cache/29785060028927370525.json",
+      "source_url": "https://api.github.com/repos/cli/cli/pulls/14348",
+      "retrieved_at": "2026-10-28T05:01:54.704925+00:00",
+      "response_date": "Wed, 28 Oct 2026 05:02:41 GMT",
+      "server_date_minus_client_seconds": 46.295075,
+      "http_status": 200,
+      "payload_checksum_valid": true,
+      "data_sha256": "8e4afe342eb3c8db891ee4055fab55c4813a80be6c8ee6abf1cc942c419368cd",
+      "file_sha256": "c83c7727ae59ef5773414a907dac9070d5735f3005eccb8a498d34d33ac82033"
+    },
+    {
+      "cache_file": "data/cache/2bb23ebc6f29c785f01a.json",
+      "source_url": "https://api.github.com/repos/cli/cli/pulls/14346",
+      "retrieved_at": "2026-10-28T05:01:50.284642+00:00",
+      "response_date": "Wed, 28 Oct 2026 05:02:36 GMT",
+      "server_date_minus_client_seconds": 45.715358,
+      "http_status": 200,
+      "payload_checksum_valid": true,
+      "data_sha256": "8b701907a63bd732572c96f39dc97333cb0444e67c815b735994ee8c702e6b2c",
+      "file_sha256": "f37bccdcafaa9d924de155664a4c6a87080660a5d086af750e1248feca7133f7"
+    },
+    {
+      "cache_file": "data/cache/3b79cf9d23933aeb0b51.json",
+      "source_url": "https://api.github.com/repos/cli/cli/stacks?pull_request=14355&per_page=100",
+      "retrieved_at": "2026-10-28T05:02:06.325819+00:00",
+      "response_date": "Wed, 28 Oct 2026 05:02:52 GMT",
+      "server_date_minus_client_seconds": 45.674181,
+      "http_status": 200,
+      "payload_checksum_valid": true,
+      "data_sha256": "e41250780803dce60ec8e4051c336b09ada509027025e8a62091843c5d7afa55",
+      "file_sha256": "684bb46f6f1d71388f066736c02bfc70b7933146729f0506687d1b2ed540cf36"
+    },
+    {
+      "cache_file": "data/cache/623e0b9983f0c82f2f4b.json",
+      "source_url": "https://api.github.com/repos/cli/cli/pulls/14347",
+      "retrieved_at": "2026-10-28T05:01:52.472191+00:00",
+      "response_date": "Wed, 28 Oct 2026 05:02:38 GMT",
+      "server_date_minus_client_seconds": 45.527809,
+      "http_status": 200,
+      "payload_checksum_valid": true,
+      "data_sha256": "4dbf06c5cf678b549689262237cf6e659ddb323488b7ddeaf31f9078b4b9c9f0",
+      "file_sha256": "9f8fe6b8cbd798bcf42f10ff61555b45c5ef00aca70039fd0d3773783d136be3"
+    },
+    {
+      "cache_file": "data/cache/6699f2634e858289b8dc.json",
+      "source_url": "https://api.github.com/repos/cli/cli/stacks?pull_request=14349&per_page=100",
+      "retrieved_at": "2026-10-28T05:01:58.859782+00:00",
+      "response_date": "Wed, 28 Oct 2026 05:02:44 GMT",
+      "server_date_minus_client_seconds": 45.140218,
+      "http_status": 200,
+      "payload_checksum_valid": true,
+      "data_sha256": "e41250780803dce60ec8e4051c336b09ada509027025e8a62091843c5d7afa55",
+      "file_sha256": "bde8557b96b5d92babccebd952ce53666cb35edfe8aef19dfa956da9d5f546f9"
+    },
+    {
+      "cache_file": "data/cache/67d4e55328bcbaf81b31.json",
+      "source_url": "https://api.github.com/repos/cli/cli/pulls/14345",
+      "retrieved_at": "2026-10-28T05:01:46.795156+00:00",
+      "response_date": "Wed, 28 Oct 2026 05:02:31 GMT",
+      "server_date_minus_client_seconds": 44.204844,
+      "http_status": 200,
+      "payload_checksum_valid": true,
+      "data_sha256": "73371b2d1272426125a9512c35b83a0f1ac399fecc2e94de9db40692244ae74f",
+      "file_sha256": "89e487221a35f1078d505bad53a18cb73fb63f706b2257e79ca10b969514adcd"
+    },
+    {
+      "cache_file": "data/cache/8019240fbcc477edd4c3.json",
+      "source_url": "https://api.github.com/repos/cli/cli/stacks?pull_request=14351&per_page=100",
+      "retrieved_at": "2026-10-28T05:02:03.874771+00:00",
+      "response_date": "Wed, 28 Oct 2026 05:02:50 GMT",
+      "server_date_minus_client_seconds": 46.125229,
+      "http_status": 200,
+      "payload_checksum_valid": true,
+      "data_sha256": "e41250780803dce60ec8e4051c336b09ada509027025e8a62091843c5d7afa55",
+      "file_sha256": "14ee87677bed6819b8bdfd1f061c5b3df3954ba55688e190b195a1b98b98b191"
+    },
+    {
+      "cache_file": "data/cache/b7353c97c73b6cc84740.json",
+      "source_url": "https://api.github.com/repos/cli/cli/pulls/14350",
+      "retrieved_at": "2026-10-28T05:02:00.529681+00:00",
+      "response_date": "Wed, 28 Oct 2026 05:02:46 GMT",
+      "server_date_minus_client_seconds": 45.470319,
+      "http_status": 200,
+      "payload_checksum_valid": true,
+      "data_sha256": "925707fb7c98a2c7eb2459972f1e5ad9e93649372a650a4914419e2c47d0042e",
+      "file_sha256": "f71777a474d6971c2ba900640185d2feccd59a151277062c6a48805e5f37b362"
+    },
+    {
+      "cache_file": "data/cache/b87ccdc4744f087657d9.json",
+      "source_url": "https://api.github.com/repos/cli/cli/pulls/14351",
+      "retrieved_at": "2026-10-28T05:02:02.574110+00:00",
+      "response_date": "Wed, 28 Oct 2026 05:02:48 GMT",
+      "server_date_minus_client_seconds": 45.42589,
+      "http_status": 200,
+      "payload_checksum_valid": true,
+      "data_sha256": "a4298a14eb68237a4a19fac6ee302388d27a6ea66474d2c499926489b3b5481e",
+      "file_sha256": "ebc9d77a1d2e10b892f6374d48d6a7977b936cdf1f0e4dad480553c4e1633894"
+    },
+    {
+      "cache_file": "data/cache/cc04b8486aa199badb56.json",
+      "source_url": "https://api.github.com/repos/cli/cli/pulls/14355",
+      "retrieved_at": "2026-10-28T05:02:05.535690+00:00",
+      "response_date": "Wed, 28 Oct 2026 05:02:51 GMT",
+      "server_date_minus_client_seconds": 45.46431,
+      "http_status": 200,
+      "payload_checksum_valid": true,
+      "data_sha256": "6ad751a4a38b0aea8ae08909f46991208cd1d6105c10ee854f643130b97f0342",
+      "file_sha256": "b869c219118177479b817fcfce694c7cac50b463a21cc7a215125a6671a0a939"
+    },
+    {
+      "cache_file": "data/cache/d290e9f6f498a1b32d3a.json",
+      "source_url": "https://api.github.com/repos/cli/cli/stacks?pull_request=14345&per_page=100",
+      "retrieved_at": "2026-10-28T05:01:48.854289+00:00",
+      "response_date": "Wed, 28 Oct 2026 05:02:34 GMT",
+      "server_date_minus_client_seconds": 45.145711,
+      "http_status": 200,
+      "payload_checksum_valid": true,
+      "data_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "file_sha256": "44a3edc351f12f3b6695cd59298235eccca09aa7d2b03111628eb0d593f454aa"
+    },
+    {
+      "cache_file": "data/cache/e2d6155a439ff0034ff8.json",
+      "source_url": "https://api.github.com/repos/cli/cli/stacks?pull_request=14350&per_page=100",
+      "retrieved_at": "2026-10-28T05:02:01.525640+00:00",
+      "response_date": "Wed, 28 Oct 2026 05:02:48 GMT",
+      "server_date_minus_client_seconds": 46.47436,
+      "http_status": 200,
+      "payload_checksum_valid": true,
+      "data_sha256": "e41250780803dce60ec8e4051c336b09ada509027025e8a62091843c5d7afa55",
+      "file_sha256": "21b87a83b97c6767ab960fc392773aad05a6fd5d436b816d60d94e1b155325f9"
+    },
+    {
+      "cache_file": "data/cache/e57e814a96573007a974.json",
+      "source_url": "https://api.github.com/repos/cli/cli/stacks?pull_request=14348&per_page=100",
+      "retrieved_at": "2026-10-28T05:01:55.817656+00:00",
+      "response_date": "Wed, 28 Oct 2026 05:02:42 GMT",
+      "server_date_minus_client_seconds": 46.182344,
+      "http_status": 200,
+      "payload_checksum_valid": true,
+      "data_sha256": "e41250780803dce60ec8e4051c336b09ada509027025e8a62091843c5d7afa55",
+      "file_sha256": "a2556aa407e0f13078f8150e2725d3ce873eaf2ef1d01d6f8a3fb833bbacd8c5"
+    },
+    {
+      "cache_file": "data/cache/ea59b94791729e9592f6.json",
+      "source_url": "https://api.github.com/repos/cli/cli/pulls/14349",
+      "retrieved_at": "2026-10-28T05:01:57.404733+00:00",
+      "response_date": "Wed, 28 Oct 2026 05:02:43 GMT",
+      "server_date_minus_client_seconds": 45.595267,
+      "http_status": 200,
+      "payload_checksum_valid": true,
+      "data_sha256": "723f684f44e6d2b0dfdfb9ca468e17436aae9c60a3b6ec011f47bb01d0ed9721",
+      "file_sha256": "f8c3f268545fe179575fc6e663b4eeb5590ca8ab25472d71559b65b4b7ca5f94"
+    },
+    {
+      "cache_file": "data/cache/f7fa34d2f3e3fc7e6577.json",
+      "source_url": "https://api.github.com/repos/cli/cli/stacks?pull_request=14346&per_page=100",
+      "retrieved_at": "2026-10-28T05:01:51.066046+00:00",
+      "response_date": "Wed, 28 Oct 2026 05:02:37 GMT",
+      "server_date_minus_client_seconds": 45.933954,
+      "http_status": 200,
+      "payload_checksum_valid": true,
+      "data_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "file_sha256": "12a6cb7a5d52143cda464ccd3102ab176e437488ce7b6f357894e9ba96928183"
+    }
+  ],
+  "pull_requests": [
+    {
+      "number": 14345,
+      "pr_url": "https://github.com/cli/cli/pull/14345",
+      "api_url": "https://api.github.com/repos/cli/cli/pulls/14345",
+      "created_at_utc": "2026-09-04T12:13:01Z",
+      "author": "williammartin",
+      "base_repository": "cli/cli",
+      "base_ref": "trunk",
+      "base_sha": "400c0844954c8f42507b1d967c5bdcb1ee958a77",
+      "head_repository": "cli/cli",
+      "head_ref": "williammartin-issue-13153-plan",
+      "head_sha": "d2637ff4efe27b30e714c076806339e3d53d65cc",
+      "native_stack_field": "absent",
+      "stack_number": null,
+      "stack_position": null,
+      "stack_size": null,
+      "filtered_stack_numbers": [],
+      "official_status": "no_membership_observed",
+      "pr_retrieved_at": "2026-10-28T05:01:46.795156+00:00",
+      "lookup_retrieved_at": "2026-10-28T05:01:48.854289+00:00",
+      "lookup_url": "https://api.github.com/repos/cli/cli/stacks?pull_request=14345&per_page=100",
+      "pr_cache_file": "data/cache/67d4e55328bcbaf81b31.json",
+      "lookup_cache_file": "data/cache/d290e9f6f498a1b32d3a.json"
+    },
+    {
+      "number": 14346,
+      "pr_url": "https://github.com/cli/cli/pull/14346",
+      "api_url": "https://api.github.com/repos/cli/cli/pulls/14346",
+      "created_at_utc": "2026-09-04T12:15:46Z",
+      "author": "williammartin",
+      "base_repository": "cli/cli",
+      "base_ref": "trunk",
+      "base_sha": "400c0844954c8f42507b1d967c5bdcb1ee958a77",
+      "head_repository": "cli/cli",
+      "head_ref": "williammartin-ssh-certificate-authority",
+      "head_sha": "77e282ebe15ba810fcb213eadb2d3285e490573c",
+      "native_stack_field": "absent",
+      "stack_number": null,
+      "stack_position": null,
+      "stack_size": null,
+      "filtered_stack_numbers": [],
+      "official_status": "no_membership_observed",
+      "pr_retrieved_at": "2026-10-28T05:01:50.284642+00:00",
+      "lookup_retrieved_at": "2026-10-28T05:01:51.066046+00:00",
+      "lookup_url": "https://api.github.com/repos/cli/cli/stacks?pull_request=14346&per_page=100",
+      "pr_cache_file": "data/cache/2bb23ebc6f29c785f01a.json",
+      "lookup_cache_file": "data/cache/f7fa34d2f3e3fc7e6577.json"
+    },
+    {
+      "number": 14347,
+      "pr_url": "https://github.com/cli/cli/pull/14347",
+      "api_url": "https://api.github.com/repos/cli/cli/pulls/14347",
+      "created_at_utc": "2026-09-04T14:13:21Z",
+      "author": "williammartin",
+      "base_repository": "cli/cli",
+      "base_ref": "trunk",
+      "base_sha": "400c0844954c8f42507b1d967c5bdcb1ee958a77",
+      "head_repository": "cli/cli",
+      "head_ref": "williammartin-fix-agentic-workflow",
+      "head_sha": "a73c594ceea927acce8b3c0c7084f479f8b63c04",
+      "native_stack_field": "absent",
+      "stack_number": null,
+      "stack_position": null,
+      "stack_size": null,
+      "filtered_stack_numbers": [],
+      "official_status": "no_membership_observed",
+      "pr_retrieved_at": "2026-10-28T05:01:52.472191+00:00",
+      "lookup_retrieved_at": "2026-10-28T05:01:53.691380+00:00",
+      "lookup_url": "https://api.github.com/repos/cli/cli/stacks?pull_request=14347&per_page=100",
+      "pr_cache_file": "data/cache/623e0b9983f0c82f2f4b.json",
+      "lookup_cache_file": "data/cache/1d048c0a2fc17d472b0c.json"
+    },
+    {
+      "number": 14348,
+      "pr_url": "https://github.com/cli/cli/pull/14348",
+      "api_url": "https://api.github.com/repos/cli/cli/pulls/14348",
+      "created_at_utc": "2026-09-04T14:57:13Z",
+      "author": "williammartin",
+      "base_repository": "cli/cli",
+      "base_ref": "trunk",
+      "base_sha": "cba9646b8c254a5711ef9e19e1dfc1455e88feaa",
+      "head_repository": "cli/cli",
+      "head_ref": "williammartin-git-real-repo-test-harness",
+      "head_sha": "e4995478338ac17dc108c7c30c157437df3b9874",
+      "native_stack_field": "documented",
+      "stack_number": 14352,
+      "stack_position": 1,
+      "stack_size": 5,
+      "filtered_stack_numbers": [
+        14352
+      ],
+      "official_status": "member",
+      "pr_retrieved_at": "2026-10-28T05:01:54.704925+00:00",
+      "lookup_retrieved_at": "2026-10-28T05:01:55.817656+00:00",
+      "lookup_url": "https://api.github.com/repos/cli/cli/stacks?pull_request=14348&per_page=100",
+      "pr_cache_file": "data/cache/29785060028927370525.json",
+      "lookup_cache_file": "data/cache/e57e814a96573007a974.json"
+    },
+    {
+      "number": 14349,
+      "pr_url": "https://github.com/cli/cli/pull/14349",
+      "api_url": "https://api.github.com/repos/cli/cli/pulls/14349",
+      "created_at_utc": "2026-09-04T15:10:43Z",
+      "author": "williammartin",
+      "base_repository": "cli/cli",
+      "base_ref": "williammartin-git-real-repo-test-harness",
+      "base_sha": "e4995478338ac17dc108c7c30c157437df3b9874",
+      "head_repository": "cli/cli",
+      "head_ref": "williammartin-git-graph-tests",
+      "head_sha": "091f872c5516b80296432ba257e7ef19681bfda5",
+      "native_stack_field": "documented",
+      "stack_number": 14352,
+      "stack_position": 2,
+      "stack_size": 5,
+      "filtered_stack_numbers": [
+        14352
+      ],
+      "official_status": "member",
+      "pr_retrieved_at": "2026-10-28T05:01:57.404733+00:00",
+      "lookup_retrieved_at": "2026-10-28T05:01:58.859782+00:00",
+      "lookup_url": "https://api.github.com/repos/cli/cli/stacks?pull_request=14349&per_page=100",
+      "pr_cache_file": "data/cache/ea59b94791729e9592f6.json",
+      "lookup_cache_file": "data/cache/6699f2634e858289b8dc.json"
+    },
+    {
+      "number": 14350,
+      "pr_url": "https://github.com/cli/cli/pull/14350",
+      "api_url": "https://api.github.com/repos/cli/cli/pulls/14350",
+      "created_at_utc": "2026-09-04T15:25:04Z",
+      "author": "williammartin",
+      "base_repository": "cli/cli",
+      "base_ref": "williammartin-git-graph-tests",
+      "base_sha": "091f872c5516b80296432ba257e7ef19681bfda5",
+      "head_repository": "cli/cli",
+      "head_ref": "williammartin-git-transport-tests",
+      "head_sha": "ff5afe556034a6848cb9d408be9e6ae70c4e88db",
+      "native_stack_field": "documented",
+      "stack_number": 14352,
+      "stack_position": 3,
+      "stack_size": 5,
+      "filtered_stack_numbers": [
+        14352
+      ],
+      "official_status": "member",
+      "pr_retrieved_at": "2026-10-28T05:02:00.529681+00:00",
+      "lookup_retrieved_at": "2026-10-28T05:02:01.525640+00:00",
+      "lookup_url": "https://api.github.com/repos/cli/cli/stacks?pull_request=14350&per_page=100",
+      "pr_cache_file": "data/cache/b7353c97c73b6cc84740.json",
+      "lookup_cache_file": "data/cache/e2d6155a439ff0034ff8.json"
+    },
+    {
+      "number": 14351,
+      "pr_url": "https://github.com/cli/cli/pull/14351",
+      "api_url": "https://api.github.com/repos/cli/cli/pulls/14351",
+      "created_at_utc": "2026-09-04T15:36:50Z",
+      "author": "williammartin",
+      "base_repository": "cli/cli",
+      "base_ref": "williammartin-git-transport-tests",
+      "base_sha": "ff5afe556034a6848cb9d408be9e6ae70c4e88db",
+      "head_repository": "cli/cli",
+      "head_ref": "williammartin-improve-git-tests",
+      "head_sha": "0c11bdf04bca607bee27ab9ee4cd9eb0c114f2a0",
+      "native_stack_field": "documented",
+      "stack_number": 14352,
+      "stack_position": 4,
+      "stack_size": 5,
+      "filtered_stack_numbers": [
+        14352
+      ],
+      "official_status": "member",
+      "pr_retrieved_at": "2026-10-28T05:02:02.574110+00:00",
+      "lookup_retrieved_at": "2026-10-28T05:02:03.874771+00:00",
+      "lookup_url": "https://api.github.com/repos/cli/cli/stacks?pull_request=14351&per_page=100",
+      "pr_cache_file": "data/cache/b87ccdc4744f087657d9.json",
+      "lookup_cache_file": "data/cache/8019240fbcc477edd4c3.json"
+    },
+    {
+      "number": 14355,
+      "pr_url": "https://github.com/cli/cli/pull/14355",
+      "api_url": "https://api.github.com/repos/cli/cli/pulls/14355",
+      "created_at_utc": "2026-09-04T15:50:28Z",
+      "author": "williammartin",
+      "base_repository": "cli/cli",
+      "base_ref": "williammartin-improve-git-tests",
+      "base_sha": "0c11bdf04bca607bee27ab9ee4cd9eb0c114f2a0",
+      "head_repository": "cli/cli",
+      "head_ref": "williammartin-clean-git-test-seams",
+      "head_sha": "7adb2541716f52964d46143be7877d69c6d9f457",
+      "native_stack_field": "documented",
+      "stack_number": 14352,
+      "stack_position": 5,
+      "stack_size": 5,
+      "filtered_stack_numbers": [
+        14352
+      ],
+      "official_status": "member",
+      "pr_retrieved_at": "2026-10-28T05:02:05.535690+00:00",
+      "lookup_retrieved_at": "2026-10-28T05:02:06.325819+00:00",
+      "lookup_url": "https://api.github.com/repos/cli/cli/stacks?pull_request=14355&per_page=100",
+      "pr_cache_file": "data/cache/cc04b8486aa199badb56.json",
+      "lookup_cache_file": "data/cache/3b79cf9d23933aeb0b51.json"
+    }
+  ],
+  "verified_edges": [
+    {
+      "edge_id": "E1",
+      "prerequisite": 14348,
+      "dependent": 14349,
+      "parent_url": "https://github.com/cli/cli/pull/14348",
+      "child_url": "https://github.com/cli/cli/pull/14349",
+      "parent_head_repository": "cli/cli",
+      "child_base_repository": "cli/cli",
+      "parent_head_ref": "williammartin-git-real-repo-test-harness",
+      "child_base_ref": "williammartin-git-real-repo-test-harness",
+      "parent_head_sha": "e4995478338ac17dc108c7c30c157437df3b9874",
+      "child_base_sha": "e4995478338ac17dc108c7c30c157437df3b9874",
+      "unique_matching_parent": true,
+      "sha_equality_corroboration": true
+    },
+    {
+      "edge_id": "E2",
+      "prerequisite": 14349,
+      "dependent": 14350,
+      "parent_url": "https://github.com/cli/cli/pull/14349",
+      "child_url": "https://github.com/cli/cli/pull/14350",
+      "parent_head_repository": "cli/cli",
+      "child_base_repository": "cli/cli",
+      "parent_head_ref": "williammartin-git-graph-tests",
+      "child_base_ref": "williammartin-git-graph-tests",
+      "parent_head_sha": "091f872c5516b80296432ba257e7ef19681bfda5",
+      "child_base_sha": "091f872c5516b80296432ba257e7ef19681bfda5",
+      "unique_matching_parent": true,
+      "sha_equality_corroboration": true
+    },
+    {
+      "edge_id": "E3",
+      "prerequisite": 14350,
+      "dependent": 14351,
+      "parent_url": "https://github.com/cli/cli/pull/14350",
+      "child_url": "https://github.com/cli/cli/pull/14351",
+      "parent_head_repository": "cli/cli",
+      "child_base_repository": "cli/cli",
+      "parent_head_ref": "williammartin-git-transport-tests",
+      "child_base_ref": "williammartin-git-transport-tests",
+      "parent_head_sha": "ff5afe556034a6848cb9d408be9e6ae70c4e88db",
+      "child_base_sha": "ff5afe556034a6848cb9d408be9e6ae70c4e88db",
+      "unique_matching_parent": true,
+      "sha_equality_corroboration": true
+    },
+    {
+      "edge_id": "E4",
+      "prerequisite": 14351,
+      "dependent": 14355,
+      "parent_url": "https://github.com/cli/cli/pull/14351",
+      "child_url": "https://github.com/cli/cli/pull/14355",
+      "parent_head_repository": "cli/cli",
+      "child_base_repository": "cli/cli",
+      "parent_head_ref": "williammartin-improve-git-tests",
+      "child_base_ref": "williammartin-improve-git-tests",
+      "parent_head_sha": "0c11bdf04bca607bee27ab9ee4cd9eb0c114f2a0",
+      "child_base_sha": "0c11bdf04bca607bee27ab9ee4cd9eb0c114f2a0",
+      "unique_matching_parent": true,
+      "sha_equality_corroboration": true
+    }
+  ],
+  "separate_live_cross_check": [
+    {
+      "number": 14345,
+      "source_url": "https://api.github.com/repos/cli/cli/pulls/14345",
+      "retrieved_at": "2026-10-28T05:24:58.136928+00:00",
+      "verified": true,
+      "fields_unchanged": {
+        "created_at": true,
+        "author": true,
+        "stack": true,
+        "base.ref": true,
+        "base.sha": true,
+        "base.repo.full_name": true,
+        "head.ref": true,
+        "head.sha": true,
+        "head.repo.full_name": true
+      }
+    },
+    {
+      "number": 14346,
+      "source_url": "https://api.github.com/repos/cli/cli/pulls/14346",
+      "retrieved_at": "2026-10-28T05:24:58.872415+00:00",
+      "verified": true,
+      "fields_unchanged": {
+        "created_at": true,
+        "author": true,
+        "stack": true,
+        "base.ref": true,
+        "base.sha": true,
+        "base.repo.full_name": true,
+        "head.ref": true,
+        "head.sha": true,
+        "head.repo.full_name": true
+      }
+    },
+    {
+      "number": 14347,
+      "source_url": "https://api.github.com/repos/cli/cli/pulls/14347",
+      "retrieved_at": "2026-10-28T05:24:59.487319+00:00",
+      "verified": true,
+      "fields_unchanged": {
+        "created_at": true,
+        "author": true,
+        "stack": true,
+        "base.ref": true,
+        "base.sha": true,
+        "base.repo.full_name": true,
+        "head.ref": true,
+        "head.sha": true,
+        "head.repo.full_name": true
+      }
+    },
+    {
+      "number": 14348,
+      "source_url": "https://api.github.com/repos/cli/cli/pulls/14348",
+      "retrieved_at": "2026-10-28T05:24:59.833326+00:00",
+      "verified": true,
+      "fields_unchanged": {
+        "created_at": true,
+        "author": true,
+        "stack": true,
+        "base.ref": true,
+        "base.sha": true,
+        "base.repo.full_name": true,
+        "head.ref": true,
+        "head.sha": true,
+        "head.repo.full_name": true
+      }
+    },
+    {
+      "number": 14349,
+      "source_url": "https://api.github.com/repos/cli/cli/pulls/14349",
+      "retrieved_at": "2026-10-28T05:25:00.266552+00:00",
+      "verified": true,
+      "fields_unchanged": {
+        "created_at": true,
+        "author": true,
+        "stack": true,
+        "base.ref": true,
+        "base.sha": true,
+        "base.repo.full_name": true,
+        "head.ref": true,
+        "head.sha": true,
+        "head.repo.full_name": true
+      }
+    },
+    {
+      "number": 14350,
+      "source_url": "https://api.github.com/repos/cli/cli/pulls/14350",
+      "retrieved_at": "2026-10-28T05:25:00.759692+00:00",
+      "verified": true,
+      "fields_unchanged": {
+        "created_at": true,
+        "author": true,
+        "stack": true,
+        "base.ref": true,
+        "base.sha": true,
+        "base.repo.full_name": true,
+        "head.ref": true,
+        "head.sha": true,
+        "head.repo.full_name": true
+      }
+    },
+    {
+      "number": 14351,
+      "source_url": "https://api.github.com/repos/cli/cli/pulls/14351",
+      "retrieved_at": "2026-10-28T05:25:01.274353+00:00",
+      "verified": true,
+      "fields_unchanged": {
+        "created_at": true,
+        "author": true,
+        "stack": true,
+        "base.ref": true,
+        "base.sha": true,
+        "base.repo.full_name": true,
+        "head.ref": true,
+        "head.sha": true,
+        "head.repo.full_name": true
+      }
+    },
+    {
+      "number": 14355,
+      "source_url": "https://api.github.com/repos/cli/cli/pulls/14355",
+      "retrieved_at": "2026-10-28T05:25:01.809944+00:00",
+      "verified": true,
+      "fields_unchanged": {
+        "created_at": true,
+        "author": true,
+        "stack": true,
+        "base.ref": true,
+        "base.sha": true,
+        "base.repo.full_name": true,
+        "head.ref": true,
+        "head.sha": true,
+        "head.repo.full_name": true
+      }
+    }
+  ],
+  "graph_diagnostics": {
+    "node_count": 8,
+    "edge_count": 4,
+    "edges": [
+      {
+        "prerequisite": "cli/cli#14348",
+        "dependent": "cli/cli#14349",
+        "evidence": "repository-qualified head == base",
+        "branch": "cli/cli:williammartin-git-real-repo-test-harness"
+      },
+      {
+        "prerequisite": "cli/cli#14349",
+        "dependent": "cli/cli#14350",
+        "evidence": "repository-qualified head == base",
+        "branch": "cli/cli:williammartin-git-graph-tests"
+      },
+      {
+        "prerequisite": "cli/cli#14350",
+        "dependent": "cli/cli#14351",
+        "evidence": "repository-qualified head == base",
+        "branch": "cli/cli:williammartin-git-transport-tests"
+      },
+      {
+        "prerequisite": "cli/cli#14351",
+        "dependent": "cli/cli#14355",
+        "evidence": "repository-qualified head == base",
+        "branch": "cli/cli:williammartin-improve-git-tests"
+      }
+    ],
+    "weak_components": [
+      [
+        "cli/cli#14348",
+        "cli/cli#14349",
+        "cli/cli#14350",
+        "cli/cli#14351",
+        "cli/cli#14355"
+      ],
+      [
+        "cli/cli#14345"
+      ],
+      [
+        "cli/cli#14346"
+      ],
+      [
+        "cli/cli#14347"
+      ]
+    ],
+    "warnings": [],
+    "cycle_components": [],
+    "is_dag": true,
+    "isolated_prs": [
+      "cli/cli#14345",
+      "cli/cli#14346",
+      "cli/cli#14347"
+    ]
+  },
+  "evaluation": {
+    "independently_validated_labels": false,
+    "precision": null,
+    "recall": null,
+    "reason": "No independent, blinded, positive-and-negative adjudication set is available. Official membership and branch matching are structurally related; their agreement is not independent validation.",
+    "conclusion": "Branch relationships provide additional descriptive workflow structure in this selected case. General identification performance and workflow legitimacy remain inconclusive."
+  }
+}

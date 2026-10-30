@@ -1,0 +1,118 @@
+{
+  "verified_at": "2026-10-28T05:30:56.618610+00:00",
+  "python": "3.13.9",
+  "pytest": {
+    "exit_code": 0,
+    "tests": 32,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0,
+    "junit_xml": "artifacts/presentation/pytest.xml"
+  },
+  "pip_check": {
+    "exit_code": 0,
+    "observed_stdout": "No broken requirements found."
+  },
+  "offline_runs": [
+    {
+      "arguments": [
+        "S:\\Repos\\stack-graph\\.venv\\Scripts\\python.exe",
+        "-m",
+        "stackgraph",
+        "--offline"
+      ],
+      "exit_code": 0,
+      "execution": {
+        "started_at": "2026-10-28T05:30:53.923581+00:00",
+        "completed_at": "2026-10-28T05:30:54.356869+00:00",
+        "arguments": [
+          "--offline"
+        ],
+        "python": "3.13.9",
+        "packages": {
+          "networkx": "3.7",
+          "requests": "2.32.5",
+          "matplotlib": "3.11.1"
+        },
+        "offline": true,
+        "refresh": false,
+        "network_requests": 0,
+        "cache_hits": 16,
+        "source_count": 16,
+        "node_count": 8,
+        "edge_count": 4,
+        "outputs": [
+          "artifacts\\analysis.json",
+          "artifacts\\graph.png",
+          "results.md"
+        ]
+      }
+    },
+    {
+      "arguments": [
+        "S:\\Repos\\stack-graph\\.venv\\Scripts\\python.exe",
+        "-m",
+        "stackgraph",
+        "--offline"
+      ],
+      "exit_code": 0,
+      "execution": {
+        "started_at": "2026-10-28T05:30:55.957388+00:00",
+        "completed_at": "2026-10-28T05:30:56.398295+00:00",
+        "arguments": [
+          "--offline"
+        ],
+        "python": "3.13.9",
+        "packages": {
+          "networkx": "3.7",
+          "requests": "2.32.5",
+          "matplotlib": "3.11.1"
+        },
+        "offline": true,
+        "refresh": false,
+        "network_requests": 0,
+        "cache_hits": 16,
+        "source_count": 16,
+        "node_count": 8,
+        "edge_count": 4,
+        "outputs": [
+          "artifacts\\analysis.json",
+          "artifacts\\graph.png",
+          "results.md"
+        ]
+      }
+    }
+  ],
+  "two_run_byte_identical": true,
+  "reproduction_output_sha256": {
+    "artifacts/analysis.json": "77237e6987be9f65c2fcc1cc072ceda648972600f241eb605b185005603e318c",
+    "artifacts/graph.png": "2900516a40550bc9d73c4324292db3f08a14e6e4508e9c1f4634e0e8691c6e13",
+    "results.md": "ed95fc243486d452bd88e35aea8a5f5bef12fd4e1b41129fb951b82cef5e0869"
+  },
+  "unchanged_from_pre_audit_reproduction": {
+    "artifacts/analysis.json": true,
+    "artifacts/graph.png": true,
+    "results.md": false
+  },
+  "original_cache_files_unchanged": true,
+  "source_file_sha256": {
+    "data/cache/1d048c0a2fc17d472b0c.json": "01cfae9d7eaea8bdd5211d6dbba7905cf5eaeb4ed012cd1a2ca34adfaae2a9ae",
+    "data/cache/29785060028927370525.json": "c83c7727ae59ef5773414a907dac9070d5735f3005eccb8a498d34d33ac82033",
+    "data/cache/2bb23ebc6f29c785f01a.json": "f37bccdcafaa9d924de155664a4c6a87080660a5d086af750e1248feca7133f7",
+    "data/cache/3b79cf9d23933aeb0b51.json": "684bb46f6f1d71388f066736c02bfc70b7933146729f0506687d1b2ed540cf36",
+    "data/cache/623e0b9983f0c82f2f4b.json": "9f8fe6b8cbd798bcf42f10ff61555b45c5ef00aca70039fd0d3773783d136be3",
+    "data/cache/6699f2634e858289b8dc.json": "bde8557b96b5d92babccebd952ce53666cb35edfe8aef19dfa956da9d5f546f9",
+    "data/cache/67d4e55328bcbaf81b31.json": "89e487221a35f1078d505bad53a18cb73fb63f706b2257e79ca10b969514adcd",
+    "data/cache/8019240fbcc477edd4c3.json": "14ee87677bed6819b8bdfd1f061c5b3df3954ba55688e190b195a1b98b98b191",
+    "data/cache/b7353c97c73b6cc84740.json": "f71777a474d6971c2ba900640185d2feccd59a151277062c6a48805e5f37b362",
+    "data/cache/b87ccdc4744f087657d9.json": "ebc9d77a1d2e10b892f6374d48d6a7977b936cdf1f0e4dad480553c4e1633894",
+    "data/cache/cc04b8486aa199badb56.json": "b869c219118177479b817fcfce694c7cac50b463a21cc7a215125a6671a0a939",
+    "data/cache/d290e9f6f498a1b32d3a.json": "44a3edc351f12f3b6695cd59298235eccca09aa7d2b03111628eb0d593f454aa",
+    "data/cache/e2d6155a439ff0034ff8.json": "21b87a83b97c6767ab960fc392773aad05a6fd5d436b816d60d94e1b155325f9",
+    "data/cache/e57e814a96573007a974.json": "a2556aa407e0f13078f8150e2725d3ce873eaf2ef1d01d6f8a3fb833bbacd8c5",
+    "data/cache/ea59b94791729e9592f6.json": "f8c3f268545fe179575fc6e663b4eeb5590ca8ab25472d71559b65b4b7ca5f94",
+    "data/cache/f7fa34d2f3e3fc7e6577.json": "12a6cb7a5d52143cda464ccd3102ab176e437488ce7b6f357894e9ba96928183"
+  },
+  "research_brief_pdf_pages": 1,
+  "failure_summary": []
+}
